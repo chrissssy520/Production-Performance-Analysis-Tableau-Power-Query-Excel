@@ -7,7 +7,7 @@
 
 ## Author
 
-Christian Aler  
+Christian Kho Aler  
 Aspiring Data Analyst | Manila, Philippines  
 [Portfolio](https://ckaportfolio.vercel.app)
 
